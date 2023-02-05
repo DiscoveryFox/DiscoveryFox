@@ -1,9 +1,9 @@
-# 👋 Hello! I'm a 15-year-old software engineer
+# 💻🚀 Hello and welcome to my Github profile!
 
-I balance my time between school in K-Town and working at the IT department at Fraunhofer. My expertise lies in Python, JavaScript/TypeScript, and Botscript (a language I created for easy Discord bot creation). I'm also fluent in Java, Kotlin, C, C++, and C#.
+I'm a 15-year-old software engineer who is still in school in K-Town but also works at the IT department at Fraunhofer. 💻🔧 My main coding languages are Python, JavaScript/TypeScript, and Botscript (a language I created for easy Discord bot creation). 🤖 I'm also fluent in Java, Kotlin, C, C++, and C#. 💻
 
-I have a passion for web development, and my skills in CSS/HTML make me a strong full-stack or back-end developer. I'm familiar with React, Tailwind, and Bootstrap frameworks and have experience with Flask, Django, and Selenium.
+I have a passion for web development and I love using my skills in CSS/HTML to create amazing websites. 🌐 I consider myself a full-stack developer, but I can also work on the back-end or front-end if needed. I'm familiar with React, Tailwind, and Bootstrap frameworks and have experience with Flask, Django, and Selenium. 💻🚀
 
-In my free time, I enjoy customizing Linux distributions, especially my Arch-based distro with i3-wm. I'm also a fan of Fedora with Hyperland. You can see my work on [Unixporn](https://unixporn.com) where I showcase my Linux customization skills.
+When I'm not coding, I love to spend my time customizing Linux distributions. 🐧 I'm a big fan of Arch-based distros with i3-wm, but I also enjoy using Fedora with Hyperland. 💻 If you're curious about my Linux customization skills, you can check out my work on [Unixporn](https://unixporn.com). 🔥
 
-💻 Let's connect and work on some cool projects!
+Let's connect and work on some amazing projects together! 🚀💻
