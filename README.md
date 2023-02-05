@@ -13,6 +13,9 @@ Hydra and Nmap, which usually only have a CLI interface. 🔨💻 And don't
 even get me started on my love for hacking! I'm a proud member of 
 the Kali Linux community and always love to learn and improve my skills. 🕵️‍♂️
 
+And let's not forget about my passion for building TUI's (terminal user interfaces) with Python and Textual! 💻💬
+I've built amazing tools like a YouTube Music TUI or a web browser that tries to load websites, ports the HTML to Textual, and then displays the website as a native TUI app in the terminal. 💻🔥
+
 I'm a full-stack kind of guy, but if you need a hand with either 
 front-end or back-end, I got you! I'm familiar with React, Tailwind, 
 and Bootstrap frameworks and have experience with Flask, Django, 
