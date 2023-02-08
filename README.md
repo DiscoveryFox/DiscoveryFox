@@ -25,6 +25,6 @@ When I'm not coding, I love to spend my time customizing Linux
 distributions and showing off my creativity. 🐧 I'm a huge fan of 
 Arch-based distros with i3-wm, but I also love using Fedora with 
 Hyperland. 💻 If you want to see my Linux customization skills in 
-action, head on over to [Unixporn](https://unixporn.com) and check it out! 🔥
+action, head on over to [Unixporn](https://unixporn.github.io/) and check it out! 🔥
 
 Let's connect and build some amazing projects together! 🚀💻
