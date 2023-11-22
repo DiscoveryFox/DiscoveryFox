@@ -1,6 +1,6 @@
 # 👋 Hey there, and welcome to my Github profile!
 
-I'm a 15-year-old software engineer who is juggling school in K-Town 
+I'm a 16-year-old software engineer who is juggling school in K-Town 
 and working at the awesome IT department at Fraunhofer. 💻🔧 My coding 
 superpower lies in Python, JavaScript/TypeScript, and the language I 
 created myself, Botscript, for creating Discord bots like a boss! 🤖 
